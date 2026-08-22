@@ -1,0 +1,6 @@
+{
+  "name": "Anh Thảo - AI Pháp lý",
+  "description": "Hệ thống AI Pháp lý Nội bộ phục vụ nghiệp vụ tố tụng và hành chính.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
